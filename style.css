@@ -1,0 +1,19 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+div{
+    background-color: antiquewhite;
+}
+nav{
+    background-color: black;
+    color: white;
+
+}
+section{
+    background-color: antiquewhite;
+}
+h3{
+    color: brown;
+}
